@@ -22,4 +22,5 @@ This project consists of several key components, detailed as follows:
   - **[`paper/`](./docs/paper.pdf)**: Detailed academic paper covering the project's methodology, analysis, and findings.
   - **[`technicalReport`](./docs/techReport.pdf)**: Comprehensive technical documentation detailing the system architecture, implementation, and analysis of the AI-powered gym workout routine chatbot.
   - **[`poster/`](./docs/poster.pdf)**: A visual summary of the project, highlighting key insights and results.
+  - **[`slides/`](./docs/ChatBot.pdf)**: A visual presentation sumarazing the project. 
 
